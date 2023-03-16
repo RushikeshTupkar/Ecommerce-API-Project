@@ -8,19 +8,19 @@
 
 * **Model** :
   There are Four Model class in this application.
-    1. User Model Class.
-    2. AddressTable Model Class.
-    3. Product Model Class.
-    4. OrderTable Model Class. 
+    * User Model Class.
+    * AddressTable Model Class.
+    * Product Model Class.
+    * OrderTable Model Class. 
 
 * **Controller** :
 
   There are Four Controller class in this application.
 
-    1. User Controller Class.
-    2. Address Controller Class.
-    3. Product Controller Class.
-    4. Order Controller Class.
+    * User Controller Class.
+    * Address Controller Class.
+    * Product Controller Class.
+    * Order Controller Class.
 
 
 **Functions/Endpoints used in User Controller Class.**
